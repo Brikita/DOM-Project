@@ -14,3 +14,7 @@ it reveals the answer which is dummy text. It also incorporates css animation.
 
 ## PROJECT 4
 This contains a timer which is like a stopwatch
+
+## PROJECT 5
+This is a To-Do List which ou can add tasks for you to do and if youve completed them you can 
+cross them out
